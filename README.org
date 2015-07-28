@@ -1,0 +1,4 @@
+#+TITLE: Purple Robot Data Query
+#+AUTHOR: Stephen J. Barr
+
+Tools to query the [[https://github.com/cbitstech/Purple-Robot][Purple Robot]] Postgres database and parse the JSON that gets returned.
