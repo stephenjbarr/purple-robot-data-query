@@ -2,3 +2,10 @@
 #+AUTHOR: Stephen J. Barr
 
 Tools to query the [[https://github.com/cbitstech/Purple-Robot][Purple Robot]] Postgres database and parse the JSON that gets returned.
+
+
+* Tasks
+
+  1. [ ] Make a simple library for the purple robot downloader
+  2. [ ] Plan the MongoDB mirror
+  3. [ ] Implement the MongoDB mirror
