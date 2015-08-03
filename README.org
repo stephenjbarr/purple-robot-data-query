@@ -4,3 +4,5 @@
 Tools to query the [[https://github.com/cbitstech/Purple-Robot][Purple Robot]] Postgres database and parse the JSON that gets returned.
 
 - Branching
+  Starting from the 'bad-merge-after-this' branch
+
